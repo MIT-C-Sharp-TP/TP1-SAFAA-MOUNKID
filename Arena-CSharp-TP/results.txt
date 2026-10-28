@@ -1,0 +1,4 @@
+Game1: defeat
+Game1: victory in 16 turns
+Game2: defeat
+Game1: victory in 18 turns
